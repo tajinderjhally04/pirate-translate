@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h1 {
+  padding: 1rem;
+  background-color: aquamarine;
+}
+
+#text-area {
+  width: 60%;
+  height: 10vh;
+  margin: 1rem auto;
+  padding: 1rem 1rem;
+  display: block;
+}
+
+#btn-translate {
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: aquamarine;
+  padding: 1rem 2rem;
+  margin: 1rem 1rem;
+}
+
+#output {
+  border: 1px solid black;
+  width: 60%;
+  height: 10vh;
+  margin: 1rem auto;
+  padding: 1rem;
+}
